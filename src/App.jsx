@@ -138,6 +138,16 @@ const App = () => {
                 ],
               },
               {
+                title: "ProjectBingsu",
+                desc: "Online Bingsu Ordering and Point Collection System via Code",
+                img: "/bingsu.png",
+                links: [
+                  ["Figma", "https://www.figma.com/design/wcA8oO2DPnliGXYf87dsTu/Bigsuu?node-id=0-1&t=akmJ7ZG4gVprxtnv-1"],
+                  ["GitHub", "https://github.com/axeaoey/ProjectBingsu"],
+                  ["Demo", "https://projectbingsu.vercel.app/"],
+                ],
+              },
+              {
                 title: "แอพรวมเพจ มพ.",
                 desc: "News aggregation app for Phayao University students.",
                 img: "/apppage.png",
