@@ -144,7 +144,7 @@ const App = () => {
                 links: [
                   ["Figma", "https://www.figma.com/design/wcA8oO2DPnliGXYf87dsTu/Bigsuu?node-id=0-1&t=akmJ7ZG4gVprxtnv-1"],
                   ["GitHub", "https://github.com/axeaoey/ProjectBingsu"],
-                  ["Demo", "https://projectbingsu.vercel.app/"],
+                  ["Demo", "https://projectbingsu-nu.vercel.app/"],
                 ],
               },
               {
